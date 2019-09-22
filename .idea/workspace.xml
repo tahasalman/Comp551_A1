@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="892c3ff9-d141-4b3e-b882-b4da15da57db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-test5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Datasets/CrimeData/CandC-train5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/q4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/q4.3.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1160172499">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="96" />
+          <entry key="dummy" value="5" />
+          <entry key="py" value="28791" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="28887" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="7" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/q4.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2620">
+              <caret line="133" selection-start-line="105" selection-start-column="4" selection-end-line="133" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1538428380383" expanded="true" signature="976:1632" ph="..." />
+                <marker date="1538428380383" expanded="true" signature="2539:2541" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/q4.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6300">
+              <caret line="318" selection-start-line="318" selection-end-line="318" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/q2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3720">
+              <caret line="187" selection-start-line="169" selection-end-line="187" />
+              <folding>
+                <element signature="e#255#286#0" expanded="true" />
+                <marker date="1538342410609" expanded="true" signature="1396:2071" ph="..." />
+                <marker date="1538342410609" expanded="true" signature="2144:2364" ph="..." />
+                <marker date="1538342410609" expanded="true" signature="2424:2433" ph="..." />
+                <marker date="1538342410609" expanded="true" signature="2424:2761" ph="..." />
+                <marker date="1538342410609" expanded="true" signature="3161:3166" ph="..." />
+                <marker date="1538342410609" expanded="true" signature="3880:3886" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/q3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="256" column="12" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/q4.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="121" selection-start-line="106" selection-end-line="121" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1538433488384" expanded="true" signature="29:30" ph="..." />
+                <marker date="1538433488384" expanded="true" signature="55:353" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>length</find>
+      <find>degree</find>
+      <find>np</find>
+      <find>power</find>
+      <find>print</find>
+      <find>[for i</find>
+      <find>min</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Code" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Programs/q1.py" />
+        <option value="$PROJECT_DIR$/Programs/plot_tutorial.py" />
+        <option value="$PROJECT_DIR$/Programs/q2.py" />
+        <option value="$PROJECT_DIR$/Code/q2.py" />
+        <option value="$PROJECT_DIR$/Notebook/Datasets/CrimeData/crime_data.csv" />
+        <option value="$PROJECT_DIR$/Code/q3.py" />
+        <option value="$PROJECT_DIR$/Code/q4.py" />
+        <option value="$PROJECT_DIR$/Code/q4.2.py" />
+        <option value="$PROJECT_DIR$/Code/q4.1.py" />
+        <option value="$PROJECT_DIR$/Code/q4.3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Taha.Salman\OneDrive - McGill University\Academics\University\Y3S1\Comp 551\Assignments\Assignment1\Code\Datasets" />
+      <recent name="C:\Users\Taha.Salman\OneDrive - McGill University\Academics\University\Y3S1\Comp 551\Assignments\Assignment1\Code\Notebook" />
+      <recent name="C:\Users\Taha.Salman\OneDrive - McGill University\Academics\University\Y3S1\Comp 551\Assignments\Assignment1\Code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Taha.Salman\OneDrive - McGill University\Academics\University\Y3S1\Comp 551\Assignments\Assignment1" />
+      <recent name="C:\Users\Taha.Salman\OneDrive - McGill University\Academics\University\Y3S1\Comp 551\Assignments\Assignment1\Programs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="892c3ff9-d141-4b3e-b882-b4da15da57db" name="Default Changelist" comment="" />
+      <created>1537817133054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537817133054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49920508" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49920508" visible="true" weight="0.06761566" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Programs/Datasets/Dataset_1_valid.csv" />
+    <entry file="file://$PROJECT_DIR$/Programs/Datasets/Dataset_1_train.csv" />
+    <entry file="file://$PROJECT_DIR$/Programs/plot_tutorial.py" />
+    <entry file="file://$PROJECT_DIR$/Code/Datasets/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebook/Datasets/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/q1.py" />
+    <entry file="file://$PROJECT_DIR$/Programs/q2.py" />
+    <entry file="file://$PROJECT_DIR$/Code/Datasets/Dataset_2_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Datasets/Dataset_2_test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Datasets/CrimeData/crime_data_refined.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebook/Datasets/CrimeData/crime_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="1994" selection-start-line="1994" selection-end-line="1994" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Datasets/CrimeData/crime_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2620">
+          <caret line="133" selection-start-line="105" selection-start-column="4" selection-end-line="133" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1538428380383" expanded="true" signature="976:1632" ph="..." />
+            <marker date="1538428380383" expanded="true" signature="2539:2541" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q4.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="318" selection-start-line="318" selection-end-line="318" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="187" selection-start-line="169" selection-end-line="187" />
+          <folding>
+            <element signature="e#255#286#0" expanded="true" />
+            <marker date="1538342410609" expanded="true" signature="1396:2071" ph="..." />
+            <marker date="1538342410609" expanded="true" signature="2144:2364" ph="..." />
+            <marker date="1538342410609" expanded="true" signature="2424:2433" ph="..." />
+            <marker date="1538342410609" expanded="true" signature="2424:2761" ph="..." />
+            <marker date="1538342410609" expanded="true" signature="3161:3166" ph="..." />
+            <marker date="1538342410609" expanded="true" signature="3880:3886" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="121" selection-start-line="106" selection-end-line="121" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1538433488384" expanded="true" signature="29:30" ph="..." />
+            <marker date="1538433488384" expanded="true" signature="55:353" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="256" column="12" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
